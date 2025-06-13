@@ -48,7 +48,7 @@ Gained comprehensive knowledge of Docker and Docker scripts. Also gained positiv
 **Professional Secondary Education in Programming**  
 🏫 Ventspils Tehnikums | 🗓️ *2020-2024*
 
-✅ Received a diploma for excellence in programming
+🏅 Received a diploma for excellence in programming
 
 ---
 
