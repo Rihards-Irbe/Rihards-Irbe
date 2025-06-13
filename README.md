@@ -40,6 +40,18 @@ Gained comprehensive knowledge of Docker and Docker scripts. Also gained positiv
 
 ---
 
+### 🎓 Education
+
+**Bachelor's in Computer Science**  
+🏫 Ventspils University of Applied Sciences (VeA) | 🗓️ *2024 – Present*
+
+**Professional Secondary Education in Programming**  
+🏫 Ventspils Tehnikums | 🗓️ *2020-2024*
+
+✅ Received a diploma for excellence in programming
+
+---
+
 ### 📫 Let's Connect!
 Email: Rihards.Irbe@outlook.com
 
