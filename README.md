@@ -10,24 +10,25 @@ Currently studying in Computer Science at VeA | Programming since I was 15 | Pas
 C++, Java, Python, PHP, JavaScript, HTML, CSS
 
 **Frameworks & Tools:**
-Flask, Laravel, Behave, Docker, Git, GitHub
+Flask, Laravel, Behave, JavaFX, Docker, SceneBuilder, Git, GitHub
 
-**Database:** MySQL, MongoDB
+**Database:**
+MySQL, MongoDB
 
 **Development Environments / IDEs:**
-VS Code, PyCharm, CLion
+VS Code, PyCharm, CLion, IntelliJ IDEA
 
 ---
 
 ### 🧑‍💻 Experience / Internships
 
 **Intern - RoutedIN**
-📍 Rīga | 🗓️ Nov 2021 – Dec 2021
+📍 Remotely (based in Rīga) | 🗓️ Nov 2021 – Dec 2021
 
 Implemented input validation, designed website layout, and developed email communication (SMTP) functionality.
 
 **Intern — edy365**
-📍 Rīga | 🗓️ Nov 2022 – Dec 2022
+📍 Remotely (based in Rīga) | 🗓️ Nov 2022 – Dec 2022
 
 Gained experience with APIs, enhanced UI development skills, and automated testing processes.
 
