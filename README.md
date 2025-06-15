@@ -10,7 +10,7 @@ Currently studying in Computer Science at VeA | Programming since I was 15 | Pas
 C++, Java, Python, PHP, JavaScript, HTML, CSS
 
 **Frameworks & Tools:**
-Flask, Laravel, Behave, JavaFX, Docker, SceneBuilder, Git, GitHub
+Flask, Laravel, Behave, JavaFX, Docker, SceneBuilder, Git, GitHub, Postman
 
 **Database:**
 MySQL, MongoDB
