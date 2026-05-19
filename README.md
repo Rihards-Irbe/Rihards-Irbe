@@ -42,9 +42,11 @@ Gained comprehensive knowledge of Docker and Docker scripts. Also gained positiv
 ---
 
 ### 🎓 Education
+**Bachelor's in Viedās Datortehnoloģijas**
+🏫 Rīgas Technical University (RTU) | 🗓️ *2025 – present*
 
 **Bachelor's in Computer Science**  
-🏫 Ventspils University of Applied Sciences (VeA) | 🗓️ *2024 – Present*
+🏫 Ventspils University of Applied Sciences (VeA) | 🗓️ *2024 – 2025*
 
 **Professional Secondary Education in Programming**  
 🏫 Ventspils Tehnikums | 🗓️ *2020-2024*
