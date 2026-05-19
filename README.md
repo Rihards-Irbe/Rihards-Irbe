@@ -1,6 +1,6 @@
 # Hi, I'm Rihards 👋
 
-Currently studying in Computer Science at VeA | Programming since I was 15 | Passionate about problem solving
+Currently studying in "Viedās Datortehnoloģijas" at RTU | Programming since I was 15 | Passionate about problem solving
 
 ---
 
